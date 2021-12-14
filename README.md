@@ -8,7 +8,7 @@ npm install
 ```
   
 ```sh
-https://github.com/MaiconNunes315/EncurtadorLink.git
+gh repo clone MaiconNunes315/Autentication
 ```
  ## Rodando o projeto
 
@@ -17,6 +17,12 @@ https://github.com/MaiconNunes315/EncurtadorLink.git
   
   Projeto feito integrando backend com frontend, após o login é exibido uma tela de bem vindo
   Para segurança dos dados de conexão com o banco de dados, foi usado o arquivo env, então coloque os dados de conexão com  seu banco de dados no arquivo env.
+  
+  ex: 
+  arquivo .env
+  PORT = 3000
+  MONGO_CONNECTION_URL = conexão com seu banco de dados
+  TOKEN_SECRET = "crie aqui seu token secreto"
 
 ## Author
 
