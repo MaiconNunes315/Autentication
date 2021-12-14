@@ -8,7 +8,7 @@ npm install
 ```
   
 ```sh
-gh repo clone MaiconNunes315/Autentication
+https://github.com/MaiconNunes315/Autentication.git
 ```
  ## Rodando o projeto
 
